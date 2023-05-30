@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have been working on web development, mainly on the front end, for 2 years
+I have been working on web development, mainly on the front end
 
 
 ## 🌐 Socials:
